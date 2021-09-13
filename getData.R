@@ -1,7 +1,7 @@
 ### Peer Graded Assignment: Exploratory Data Analysis Course Project (week 1)
-### https://github.com/merlotpa/Exploratory-Data-Analysis_week01_PlottingAssignmentProject
+### https://github.com/priyankraj1/Exploratory-Data-Analysis_week01_PlottingAssignmentProject
 
-
+ 
 getData <- function() {
         library(data.table)
         library(dplyr) ## (data.table + dplyr code now lives in dtplyr.)
@@ -76,3 +76,4 @@ getData <- function() {
         setwd(originalDir)
         df <- transform(df, timestamp=as.POSIXct(paste(Date, Time)), "%d/%m/%Y %H:%M:%S")
 }
+

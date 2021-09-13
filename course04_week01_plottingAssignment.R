@@ -1,10 +1,10 @@
 ### Peer Graded Assignment: Exploratory Data Analysis Course Project (week 1)
-### https://github.com/merlotpa/Exploratory-Data-AnalysisExData_week01_PlottingAssignmentProject
+### https://github.com/priyankraj1/Exploratory-Data-AnalysisExData_week01_PlottingAssignmentProject
 
-setwd("/home/patechoc/Documents/COURSE/MOOCs/COURSERA_Datascienc-with-R/course04_Exploratory_Analysis/CODE/Exploratory-Data-Analysis_week01_PlottingAssignmentProject")
+setwd("C:/Users/priya/OneDrive/Desktop/Git Repository/Exploratory-Data-Analysis_week01_PlottingAssignmentProject")
 
 ### DOWNLOAD THE DATASET (if not there already)
-mainDir = getwd()
+mainDir = getwd() 
 rawDir = "data"
 if(!file.exists(destfile)){
         dir.create(file.path(mainDir, rawDir))

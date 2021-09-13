@@ -1,7 +1,7 @@
 # Peer Graded Assignment: Exploratory Data Analysis Course Project (week 1)
 
 This assignment is the first project assignment for the course on COURSERA named ["Exploratory Data Analysis"](https://www.coursera.org/learn/exploratory-data-analysis)
-
+ 
 ## COURSERA instructions
 
 [link to dataset at UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption)
